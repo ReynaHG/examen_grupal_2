@@ -1,0 +1,48 @@
+$ofpx: 1px;
+$of2px: 2px;
+$ofpx5: 5px;
+$ofpxdz: 10px;
+$ofpx15: 15px;
+$ofuno: 1em;
+$ofdos: 2em;
+$ofcua: 4em;
+$ofsei: 6em;
+$ofoch: 8em;
+$ofdiz: 10em;
+$ofdc: 12em;
+$oftc: 35em;
+$ofcin: 5%;
+$ofdz: 10%;
+$ofdoc: 12%;
+$ofqc: 15%;
+$ofvs: 23%;
+$oft: 31%;
+$oftc: 32%;
+$ofcinc: 50%;
+$ofots: 80%;
+$ofcien: 100%;
+
+
+@mixin cuad {
+	border: $ofpx solid $of;
+	width: $oft;
+	height: $oftc;
+	margin-right: $ofpxdz;
+	margin-top: $ofpxdz;
+	padding: -$ofdos;
+}
+@mixin rec {
+	width: $ofvs;
+	height: $oft;
+	margin-right: $ofpxdz;
+	margin-top: $ofpxdz;
+	padding: -$ofdos;
+}
+
+
+
+$oprinc: #ffffff;
+$of: #080808;
+$ogri: #dcd3d3;
+$oroj: #990000;
+$ofgs: #909090;

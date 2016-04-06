@@ -1,0 +1,405 @@
+@charset "UTF-8";
+/*Parte ReynaHG */
+* {
+  font-family: "Droid Sans", sans-serif; }
+
+/*letras y formtos */
+.uppercase {
+  text-transform: uppercase; }
+
+/*backgrounds */
+.r-bg-gray {
+  background-color: #DCD3D3; }
+
+/*footer Reyna HG */
+.footer-list {
+  margin-left: 2em;
+  margin-right: 2em;
+  border-left: 3px double white; }
+
+.footer-list-style ul li {
+  font-size: 0.95em; }
+  .footer-list-style ul li a {
+    color: #3A3535; }
+  .footer-list-style ul li a:hover {
+    color: #E96666;
+    text-decoration: none; }
+
+.footer-adress {
+  padding-top: 4em; }
+
+.footer-borde {
+  border-bottom: 3px double white; }
+
+.last-list ul li {
+  margin-top: 1em;
+  margin-left: -1em !important;
+  font-size: 0.85em; }
+  .last-list ul li a {
+    color: #3A3535; }
+  .last-list ul li a:hover {
+    color: #E96666;
+    text-decoration: none; }
+
+/*margenes y paddings */
+.r-pt-3 {
+  padding-top: 3%; }
+
+.r-pb-3 {
+  padding-bottom: 3%; }
+
+.r-ml-6 {
+  margin-left: 10%; }
+
+.r-ml-center {
+  margin-left: 15% !important; }
+
+.r-blog-center {
+  margin-left: 18% !important; }
+
+.r-blogs-center {
+  margin-left: 18em !important;
+  margin-bottom: 3em; }
+
+.r-mt-3 {
+  margin-top: 3%; }
+
+.r-mt-5 {
+  margin-top: 5%; }
+
+/*contacto */
+.r-banner {
+  width: 10em;
+  height: 35em; }
+
+.r-banner-place {
+  margin-left: 2em; }
+
+.r-banner-place1 {
+  margin-left: 5em !important; }
+
+.radio span {
+  font-size: 0.9em !important;
+  padding-left: 10.5em; }
+.radio .r-dos {
+  padding-left: 14em; }
+.radio .r-tres {
+  padding-left: 13em; }
+.radio .r-cuatro {
+  padding-left: 11.5em; }
+.radio .r-cinco {
+  padding-left: 14em; }
+.radio .r-seis {
+  padding-left: 18em; }
+
+.btn-default {
+  background-color: #333 !important;
+  color: white !important;
+  width: 60%;
+  height: 3.5em;
+  margin-top: 5%;
+  margin-bottom: 15% !important; }
+
+/*menu ReynaHG */
+/*bootstrap modifications */
+.form-control {
+  background-color: #DEDEDE !important; }
+
+.navbar-default {
+  background-color: #9A0B0B !important; }
+
+.r-menu ul li:hover {
+  background-color: #945D5D; }
+.r-menu ul a {
+  color: #FFFFFF !important;
+  font-size: 0.6em !important;
+  margin-left: 1.5em;
+  font-weight: bolder; }
+
+.top-list ul {
+  margin-top: 0.5em !important;
+  background-color: #B7B1B1; }
+  .top-list ul li {
+    font-size: 1em;
+    padding-top: 1%;
+    padding-bottom: 1%; }
+  .top-list ul .item-title {
+    background-color: #666060;
+    color: white;
+    font-weight: bolder; }
+  .top-list ul a {
+    color: #2D2A2A !important;
+    font-size: 0.9em; }
+  .top-list ul a:hover {
+    color: #CF7474 !important;
+    text-decoration: none; }
+
+/**/
+.u {
+  background-color: #dcd3d3;
+  padding: 1em; }
+
+.oflist {
+  margin-left: 2em; }
+
+.oflist li {
+  list-style-type: none;
+  float: left;
+  margin-right: 10px; }
+
+.a {
+  color: #080808; }
+
+.ofmtp {
+  margin-top: 1em; }
+
+.ofbgr {
+  color: #ffffff;
+  background-color: #990000; }
+
+.ofmlf {
+  margin-left: 6em; }
+
+.ofml {
+  margin-left: 10em; }
+
+.ofmrg {
+  margin-right: 10em; }
+
+.ofmr {
+  margin-right: 1em; }
+
+.ofmle {
+  margin-left: 2em; }
+
+.ofmbm {
+  margin-bottom: 6em; }
+
+.scroll-me {
+  background-color: #990000; }
+
+.ofbr {
+  border: 1px solid #080808;
+  width: 31%;
+  height: 32%;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: -2em; }
+
+.ofb {
+  width: 23%;
+  height: 31%;
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: -2em; }
+
+.ofbgg {
+  background-color: #dcd3d3; }
+
+.ofbrbl {
+  border: 1px solid #ffffff; }
+
+.botella {
+  width: 100%;
+  height: auto; }
+
+.oftxg {
+  color: #909090; }
+
+/* Tipo de letra*/
+* {
+  font-family: 'Droid Sans', sans-serif; }
+
+/* Inicia Blog*/
+.a-lo {
+  color: #848484;
+  font-weight: bold; }
+
+.a-ico {
+  color: red;
+  font-size: 24px; }
+
+.a-gris {
+  margin-top: 10%;
+  margin-bottom: 10%;
+  margin-left: 45%;
+  width: 120%;
+  height: 190px;
+  border: 2px solid #BDBDBD;
+  background-color: white; }
+  .a-gris h4 {
+    font-weight: bold; }
+  .a-gris .a-gray {
+    width: 95%;
+    height: 80px;
+    background-color: #D8D8D8;
+    margin-top: 15%;
+    margin-left: 2.5%; }
+
+.a-pic {
+  margin-left: -45%;
+  margin-top: 3%; }
+
+.a-blo {
+  margin-top: -28%; }
+  .a-blo p {
+    font-weight: bold;
+    font-size: 16px; }
+
+.a-uno {
+  margin-left: 15%; }
+
+.a-dos {
+  margin-top: -4%;
+  margin-left: 22%;
+  color: #848484; }
+
+.a-tres {
+  margin-top: -4%;
+  margin-left: 36%;
+  color: #848484;
+  font-size: 14px !important; }
+
+.a-cuatro {
+  font-size: 14px !important;
+  margin-bottom: -4%; }
+
+.a-cinco {
+  font-size: 9px !important;
+  margin-left: 36%;
+  font-weight: bold; }
+
+.a-seis {
+  font-size: 10px !important;
+  margin-left: 46%;
+  text-align: left; }
+
+.a-siete {
+  font-size: 14px !important;
+  margin-top: 8% !important; }
+
+.a-ocho {
+  font-size: 12px !important;
+  color: #848484;
+  margin-left: 35%;
+  margin-top: -2%; }
+
+.a-nueve {
+  font-size: 10px !important;
+  color: #848484;
+  margin-left: 37%;
+  margin-top: -4%; }
+
+/*Termina Blog*/
+/*inicia Banner*/
+.a-banner-space {
+  margin-left: 2em; }
+
+.a-banner-space1 {
+  margin-left: 15em !important; }
+
+.a-banner-row {
+  margin-left: 14em; }
+  .a-banner-row h6 {
+    font-size: 10px; }
+
+.a-banner-col {
+  margin-left: 2.05em !important;
+  position: relative; }
+
+/*Termina Banner*/
+/*Barrita home */
+.a-mar {
+  margin-left: 10%; }
+
+.a-let {
+  font-size: 40px;
+  font-weight: bold;
+  margin-left: 4em; }
+
+ul#menu {
+  margin-left: 6em; }
+  ul#menu li {
+    display: inline;
+    font-weight: bold; }
+
+/*Imagenes home */
+.a-row-home {
+  margin-top: -53% !important;
+  position: absolute;
+  margin-left: 5%; }
+
+.a-image {
+  margin-left: 5%; }
+  .a-image h2, .a-image h3 {
+    position: relative;
+    color: white;
+    margin-top: -25%;
+    margin-left: 5%;
+    font-size: 20px;
+    font-weight: bold; }
+  .a-image h3 {
+    font-size: 16px; }
+
+.a-fut {
+  margin-top: 17%; }
+
+/*Terminan im├ígenes home*/
+/*Banner home*/
+.a-mar-banner {
+  margin-left: -5em; }
+
+.a-mar-banner1 {
+  margin-left: 1.5em; }
+
+/*Termina Banner home*/
+/*responsive ReynaHG */
+@media only screen and (max-width: 720px) {
+  .selectnav {
+    display: none; }
+
+  .small {
+    font-size: 60% !important; }
+
+  .r-ml-center {
+    margin-left: 5% !important; }
+
+  .radio label {
+    font-size: 0.9em !important; }
+  .radio span {
+    margin-left: 70%; }
+
+  .r-blogs-center {
+    margin-left: 1em !important;
+    margin-bottom: 1em; }
+
+  .a-gris {
+    margin-bottom: 5%;
+    margin-left: 5%;
+    width: 100%;
+    height: 170px;
+    border: 2px solid #BDBDBD;
+    background-color: white; }
+    .a-gris h4 {
+      font-size: 1em; }
+    .a-gris .a-gray {
+      width: 100%;
+      height: 60px;
+      margin-top: 10%;
+      margin-left: 2.5%; } }
+.a-pic {
+  margin-left: -50%; }
+
+@media only screen and (max-width: 1000px) {
+  ul {
+    margin-top: 0.5em !important;
+    background-color: #B7B1B1; }
+    ul li {
+      font-size: 0.7em;
+      padding-top: 0.5%;
+      padding-bottom: 0.5%; }
+
+  .format-list li {
+    font-size: 0.75em !important; } }
+
+/*# sourceMappingURL=main.css.map */

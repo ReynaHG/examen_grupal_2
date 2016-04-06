@@ -1,0 +1,269 @@
+/* Tipo de letra*/
+* {font-family: 'Droid Sans', sans-serif;}
+
+ /* Inicia Blog*/
+.a-lo{
+	 color:#848484;
+	 font-weight:bold;
+}
+
+.a-ico{
+	color:red;
+	font-size:24px;
+}
+.a-gris{
+    margin-top:10%;
+    margin-bottom:10%;
+	width:160%;
+	height:200px;
+	border: 2px solid #BDBDBD;
+	background-color:white;
+	h4{
+	 font-weight:bold;
+	}
+	.a-gray{
+	    width:95%;
+	    height:80px;
+	    background-color:#D8D8D8;
+	    margin-top:15%;
+	    margin-left:2.5%;
+	}
+}
+.a-pic{
+	margin-left:-45%;
+	margin-top:3%;
+}
+.a-blo{
+    margin-top:-28%;
+	p{
+	  font-weight:bold;
+	  font-size:16px;
+	}
+}
+.a-uno{
+	margin-left:15%;
+}
+.a-dos{
+	margin-top:-4%;
+	margin-left:22%;
+	color:#848484;
+}
+.a-tres{
+	margin-top:-4%;
+	margin-left:36%;
+	color:#848484;
+	font-size:14px !important;
+}
+.a-cuatro{
+	font-size:14px !important;
+	margin-bottom:-4%;
+}
+.a-cinco{
+	font-size:9px !important;
+	margin-left:36%;
+	font-weight:bold;
+}
+.a-seis{
+	font-size:10px !important;
+	margin-left:46%;
+	text-align:left;
+}
+.a-siete{
+	font-size:14px !important;
+	margin-top:8%!important;
+}
+.a-ocho{
+	font-size:12px !important;
+	color:#848484;
+	margin-left:35%;
+	margin-top:-2%;
+}
+.a-nueve{
+	font-size:10px !important;
+	color:#848484;
+	margin-left:37%;
+	margin-top:-4%;
+}
+ /*Termina Blog*/
+ /*inicia Banner*/
+
+ .a-banner-space{
+     margin-left:6em;
+ }
+ .a-banner-row{
+  margin-left:14em;
+  h6{
+  font-size:10px;
+  }
+ }
+ .a-banner-col{
+ margin-left:4.5em!important;
+ position:relative;
+ }
+ /*Termina Banner*/
+ /*Barrita home */
+.a-mar{
+	margin-left:10%;
+	}
+.a-let{
+	font-size:40px;
+	font-weight:bold;
+	margin-left:4em;
+}
+ul#menu {
+margin-left:6em;
+	li{
+		display:inline;
+		font-weight:bold;
+	}
+}
+ /*Imagenes home */
+.a-row-home{
+	margin-top:-53%!important;
+	position:absolute;
+	margin-left:5%;
+}
+.a-image{
+   margin-left:5%;
+	h2,h3{
+	position:relative;
+	color:white;
+	margin-top:-25%;
+	margin-left:5%;
+	font-size:20px;
+	font-weight:bold;
+	}
+	h3{
+	font-size:16px;
+	}
+}
+.a-fut{
+	margin-top:17%;
+	
+}
+/*Terminan imágenes home*/
+/*Banner home*/
+.a-mar-banner{
+	margin-left:-5em;
+}
+.a-mar-banner1{
+	margin-left:3em;
+}
+/*Termina Banner home*/
+/*Columnistas home*/ 
+.a-colum{
+	width:96%;
+	background-color:#BDBDBD;
+	height:200px;
+	border-top:4px solid #DF0101;
+	margin-top:-20%;
+	margin-left:3%;
+}
+.a-rojo{
+  width:20%;
+  height:24px;
+  background-color:#DF0101;
+  position:relative;
+  margin-left:43%;
+  margin-top:3%;
+	h1{
+	color:white;
+	}
+}
+.imcol .img-thumbnail{
+	margin-top:-360%;
+}
+.a-img-left{
+	margin-left:2%;
+}
+.a-img-left1{
+	margin-left:-4%;
+}
+.a-div-col{
+margin-top:-140%;
+	h6{
+	font-size:8px;
+	 }
+	 h5{
+	 font-size:10px;
+	 font-weight:bold;
+	 }
+}
+/*Secci[on debajo de columnistas Home*/
+.a-cuad{
+    margin-top:10%;
+    margin-bottom:10%;
+	width:98%;
+	height:240px;
+	border: 2px solid #BDBDBD;
+	background-color:white;
+		h4{
+			color:red;
+			font-weight:bold;
+		}
+		p{
+			position:absolute;
+			color:white;
+		    font-weight:bold;
+		    margin-top:35%;
+		    text-align:left !important;
+		    margin-left:2%;
+		    font-size:12px;
+		}
+		h6 a{
+			 color:black;
+			 font-weight:bold;
+		}
+}
+.a-im-colum{
+	margin-top:10%;
+	width:80%;
+	height:510px;
+}
+.a-todo-row{
+	margin-left:14%;
+}
+.a-regimen-margen{
+	 margin-top:30%!important;
+	 }
+.a-champion-margen{
+	 margin-top:42%!important;
+}
+.a-ulti{
+	 margin-left:15%;
+	 color:#848484;
+	 font-weight:bold;
+}
+.a-ulti-icono{
+	margin-top:-7%;
+	
+}
+.a-icono-margen{
+	margin-left:2%;
+}
+.a-letra-gris{
+	color:#848484;
+	font-size:12px;
+	}
+
+.a-borde-gris{
+	border-bottom: 1px solid #848484;
+	margin-left:25%;
+	width:100%;
+	margin-left:30%;
+	h5{
+	font-weight:bold;
+	}
+}
+.a-emma{
+	margin-left:29%;
+	margin-top:-15%;
+	position:relative;
+	p{
+	font-size:12px;
+	}
+}
+.a-boletin{
+	margin-left:35%;
+	margin-top:5%;
+}

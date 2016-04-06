@@ -1,0 +1,66 @@
+/**/
+.u {
+	background-color: $ogri;
+	padding: $ofuno;
+}
+
+
+
+.oflist {
+	margin-left: $ofdos;
+}
+.oflist li {
+	list-style-type: none;
+	float: left;
+	margin-right: $ofpxdz;
+}
+.a {
+	color: $of;
+}
+.ofmtp {
+	margin-top: $ofuno;	
+}
+.ofbgr {
+	color: $oprinc;
+	background-color: $oroj;
+}
+.ofmlf {
+	margin-left: $ofsei;
+}
+.ofml {
+	margin-left: $ofdiz;
+}
+.ofmrg {
+	margin-right: $ofdiz;
+}
+.ofmr {
+	margin-right: $ofuno;
+}
+.ofmle {
+	margin-left: $ofdos;
+}
+.ofmbm {
+	margin-bottom: $ofsei;
+}
+.scroll-me {
+	background-color: $oroj;
+}
+.ofbr {
+	@include cuad;
+}
+.ofb {
+	@include rec;
+}
+.ofbgg {
+	background-color: $ogri;
+}
+.ofbrbl {
+	border: $ofpx solid $oprinc;
+}
+.botella {
+	width: $ofcien;
+	height: auto;
+}
+.oftxg {
+	color: $ofgs;
+}
